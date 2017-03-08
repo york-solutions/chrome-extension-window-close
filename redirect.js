@@ -1,0 +1,1 @@
+window.location.href = 'https://york.io/chrome-extension-window-close/';
